@@ -1,7 +1,7 @@
 <html>
 <body>
 <h1>Congratulations You Have Successfully Deployed Java Applications with version - 3</h1>
-<img src="images/thank you.jpeg">
+<img src="image/image.jpeg" alt="logo">
 </body>
 </html>
 
